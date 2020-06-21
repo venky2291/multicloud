@@ -1,5 +1,5 @@
 welcome to lw cloud
-<br />
+<body bgcolor='aqua'>
 
 <pre>
 <?php
